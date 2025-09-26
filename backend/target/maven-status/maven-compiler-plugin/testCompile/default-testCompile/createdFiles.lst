@@ -1,0 +1,4 @@
+com\bookreview\ReviewServiceTest.class
+com\bookreview\controller\BookControllerTest.class
+com\bookreview\AuthServiceTest.class
+com\bookreview\service\BookServiceTest.class
